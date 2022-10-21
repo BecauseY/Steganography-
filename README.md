@@ -1,4 +1,4 @@
-# Steganography
+# Steganography，好兄弟们下载的时候记得star和fork呀！！！
 
 ### 信息隐藏
 
