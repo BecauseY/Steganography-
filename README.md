@@ -1,6 +1,6 @@
-# Steganography，学弟们下载的时候记得star和fork呀！！！
+Steganography，学弟们下载的时候记得star和fork呀！！！
 
-### 信息隐藏
+信息隐藏
 
 1.各个文件夹里面有详细的说明
 
